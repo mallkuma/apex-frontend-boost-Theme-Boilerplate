@@ -14,3 +14,8 @@ You probably don't. Building a theme from the ground up is not something you do 
 
 ###Automatic Install
 - Import the APEX application ```f14966.sql``` in your workspace.
+
+###Credits
+- APEX Theme Boilerplate by Vincent Morneau ( https://github.com/vincentmorneau/apex-theme-boilerplate )
+- APEX Front-End Boost by Vincent Morneau ( https://github.com/OraOpenSource/apex-frontend-boost )
+
