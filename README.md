@@ -11,4 +11,4 @@ It's an empty APEX 5 application with basic stuff that any APEX theme needs. No 
 You probably don't. Building a theme from the ground up is not something you do everyday. I personally find this useful. Might as well share it, right?
 
 ###Automatic Install
-- Import the APEX application ```f14963.sql``` in your workspace.
+- Import the APEX application ```f14966.sql``` in your workspace.
